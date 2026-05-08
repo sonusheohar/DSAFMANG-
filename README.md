@@ -21,3 +21,12 @@ This repository serves as:
 
 
 ## 📂 Repository Structure
+DSAFMANG/
+│── Arrays/
+│── Strings/
+│── LinkedLists/
+│── Trees/
+│── Graphs/
+│── DynamicProgramming/
+│── Patterns/
+│── README.md
